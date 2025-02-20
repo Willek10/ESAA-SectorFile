@@ -9,7 +9,7 @@ Welcome to the official repository for the ESAA FIR (Sweden Area Control Center)
 - **Comprehensive Airspace Layouts**: Includes all relevant controlled and uncontrolled airspace boundaries.
 - **Accurate Waypoints and Fixes**: Regularly updated to reflect the latest AIP data.
 - **SIDs and STARs**: Up-to-date standard instrument departure and arrival procedures.
-- **Airports and Runways**: Detailed data for all airports within the EKDK FIR.
+- **Airports and Runways**: Detailed data for all airports within the ESAA FIR.
 - **Restricted and Danger Areas**: Highlighted for easy reference.
 
 ---
@@ -25,7 +25,7 @@ Welcome to the official repository for the ESAA FIR (Sweden Area Control Center)
    git clone https://github.com/yourusername/ESAA-sector-file.git
    ```
 2. Place the downloaded files into the appropriate directory for Aurora.
-3. Launch Aurora and load the EKDK sector file.
+3. Launch Aurora and load the ESAA sector file.
 
 > **Note**: These installation steps are only applicable to pre-releases of the sector file. Pre-releases may contain incomplete features and should not be used during training, events, or exams. All full releases are to be downloaded directly via the Aurora client.
 
@@ -33,7 +33,7 @@ Welcome to the official repository for the ESAA FIR (Sweden Area Control Center)
 
 ## Contributing
 
-We welcome contributions to improve the EKDK sector file. If you'd like to contribute:
+We welcome contributions to improve the ESAA sector file. If you'd like to contribute:
 1. Fork this repository.
 2. Make your changes on a new branch.
 3. Submit a pull request with a clear description of the changes.
