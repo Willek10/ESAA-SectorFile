@@ -20,7 +20,7 @@ Welcome to the official repository for the ESAA FIR (Sweden Area Control Center)
 - **Aurora ATC Client**: Make sure you have the latest version of IVAO's Aurora ATC radar client installed.
 
 ### Installation
-**If you want a complete and ensured fully functional sectorfile, *only* update your sectorfile within aurora itself. Using the installation method below might update to an in-progress sectorfile.**
+<ins>**If you want a complete and ensured fully functional sectorfile, *only* update your sectorfile within aurora itself. Using the installation method below might update to an in-progress sectorfile.**</ins>
 
 
 1. Clone or download this repository to your computer:
