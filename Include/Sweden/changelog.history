@@ -1,0 +1,92 @@
+////////////////////////////////////////////////////////////////////////////////////////////
+// ESAA Sector History File
+// AIRAC: 2408* compatible
+//
+// Notes:
+// At this state not everything is implemented and the Sector is still considered WIP
+// The Sector is AIRAC compatible but be advised that there can be Errors
+// Please get in touch with XN Divison by Discord or Forums if you have
+// Questions, found Errors or any other related Information regarding that Sectorfile.
+//
+// 
+// "This software is published under the GNU GPL Licence a copy of which must always accompany this file"
+// "This Sectorfile must always acompanied by the History file"
+// "copyright IVAO - INTERNATIONAL VIRTUAL AVIATION ORGANISATION"
+//
+//
+////////////////////////////////////////////////////////////////////////////////////////////
+
+[AIRAC 2212]
+[XMAS Event]
+- "pseudo" XMAS Airport added with Routes and Holdings for the Event
+
+[General]
+- Reduced all ESSA Stations to Single Position Setup
+Changed ATC Fillcolor behaviour
+
+///// TO-DO /////
+ESMS:
+- MVRA
+ESSV:
+- procedural turnes for SIDs and STARs
+- MVRA
+
+ESDF:
+- Add ILS for 01 and 19
+
+-- expected finish with all ESAA FIR APTs around AIRAC 30xx (please help - or send blond swedish woman for motivation)
+- Update ESSA GEO into 2022 HD quality
+- Update ESGG GEO into 2022 HD quality
+- Update every other GEO in according to how i feel (or the blond swedish women)
+
+///////==============================================
+Date: 12/06/2024
+[AIRAC 2408]
+Added:  ENR FIX				ARJUD		
+Added:  ENR FIX				SEPJA		
+Added:  ENR FIX				ABJAZ		
+Added:  ENR FIX				AGWIM			
+Added:  ENR FIX				OTMAB			
+Added:  ENR FIX				ARIWA		
+Removed:NDB 				KM						ESMQ
+Updated: SID 				NEWKI1B --> NEWKI2B		ESSD
+///////==============================================
+Date: 14/07/2024
+Added: 		Colorpallete TAXIWAYS/APRONS				ESMS
+Added: 		Colorpallete GRASS/RUNWAY/BUILDING			ESMS
+Added: 		Taxiway lables	////	ESMS
+Added:	 	Alpha Colors	////	
+Removed: 	Asphalt(old taxiway)	Between X2 and X3	ESSA
+Added: 		Restricted Area	R124 BJÖRKBORN
+Added:		Ground textures								ESMS
+///////============================================
+Date: 04/10/2024
+Updated:       ENR FIX       UNGAV NOW BOUNDRY FIX
+Updated:       SID           BABAP4G --> BABAP5G		ESSA
+///////============================================
+Date; 05/11/2024
+Added:			ENR FIX			AKVOW
+Added:			ENR FIX			BAZOQ 	
+Added:			ENR FIX			DIWDE 
+Added:			ENR FIX			IFCAG 
+Added:			ENR FIX			UPCUM 
+Added:			ENR FIX			UPMAD 
+///////============================================
+Date; 23/11/2024
+Updated:		SID				TOVRI5G --> TOVRI6G
+///////============================================
+Date: 04/12/2024
+Added;			SID/STARs		All ESNN SID & STAR ADDED
+///////============================================
+2501 - (05/02/2025)
+#### Added
+- This changelog
+- STAR ESGG ARQUIS1X AND ARQUIS1Q
+- SIDS AND STARS FOR ESNN
+- STARS FOR FOLLOWING AIRPORTS ON BEHALF OF WILLIAM K: ESCF, ESCM, ESDF, ESGJ, ESGP, ESGT, ESIB, ESKM, ESMQ, ESMT, ESMX, ESND, ESNG, ESNK, ESNL, ESNO, ESNS, ESNU, ESNV, ESNX, ESOE, ESOH
+- SIDS FOR FOLLOWING AIRPORTS ON BEHALF OF WILLIAM K: ESGJ, ESMQ, ESMT, ESNU, ESOK 
+///////============================================
+2504 - (2025/03/20)
+#### Added
+-FIXES	IBNIC, MIDIC, WAKZU
+-TMA	HAGSHULT MAIN TMA, HAGSHULT A AND B TMA.

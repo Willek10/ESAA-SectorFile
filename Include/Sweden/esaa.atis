@@ -1,0 +1,1 @@
+{ "region" : "default", "structure" : "[STATION_NAME] Airport Information [ATIS_LETTER], at time, [ATIS_TIME]. Runway(s) in use for departure [DEP]. Runway(s) in use for arrival [ARR]. Expect Vectors to Final. Transition altitude [TA]. Transition level [TL]. Weather [METAR].. [REMARK].. Advice on initial contact you have information [ATIS_LETTER].. " }
