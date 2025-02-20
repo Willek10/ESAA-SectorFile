@@ -22,7 +22,7 @@ Welcome to the official repository for the ESAA FIR (Sweden Area Control Center)
 ### Installation
 1. Clone or download this repository to your computer:
    ```bash
-   git clone https://github.com/yourusername/EKDK-sector-file.git
+   git clone https://github.com/yourusername/ESAA-sector-file.git
    ```
 2. Place the downloaded files into the appropriate directory for Aurora.
 3. Launch Aurora and load the EKDK sector file.
