@@ -72,6 +72,7 @@ F;esoegeo.geo
 F;espageo.geo
 F;esowgeo.geo
 F;essdgeo.geo
+F;es_r.restricted
 
 [ARTCC]
 F;esacc.acc
@@ -93,9 +94,18 @@ F;essl.fcl
 F;essp.fcl
 F;essagmc.fcl
 F;esmsgmc.fcl
+F;espagmc.fcl
 
 [ATC]
 F;esaafreq.atc
 
 [DEFINE]
 F;Sweden/other/colors.def
+
+[SYMBOLS]
+F;Sweden/other/esaa.sym
+
+[PROFILE]
+F;symbols.cpr
+F;labels.cpr
+F;hidefixes.cpr
