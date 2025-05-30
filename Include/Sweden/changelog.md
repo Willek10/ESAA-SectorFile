@@ -16,3 +16,7 @@ N/A
 -For previous changelog, see changelog.history file.
 -For continous update, see GitHub https://github.com/IVAO-XN-Nordic/ESAA-SectorFile
 
+
+#### AIRAC 2507 - (2025/06/12)
+#### Added
+-ESNQ GROUND TEXTURES.
